@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+pybind11
+hmmlearn
+seaborn
+statsmodels
+cliffs-delta
+joblib
+scikit-learn
+streamlit

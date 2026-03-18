@@ -1,0 +1,16 @@
+Timestamp,Action,ActionID,Direction
+2024-12-09 09:49:48.288,Teleport,,R
+2024-12-09 09:49:49.372,Teleport,,R
+2024-12-09 09:49:52.611,Teleport,,R
+2024-12-09 09:49:56.527,Teleport,,R
+2024-12-09 09:50:01.110,Teleport,,R
+2024-12-09 09:50:03.243,Teleport,,R
+2024-12-09 09:50:14.716,Teleport,,R
+2024-12-09 09:50:17.221,Teleport,,R
+2024-12-09 09:50:18.287,Teleport,,R
+2024-12-09 09:50:23.606,PlayVideo,video_zTcsSwKffL4,
+2024-12-09 09:50:25.559,PlayVideo,video_zTcsSwKffL4,
+2024-12-09 09:50:28.436,PlayVideo,video_zTcsSwKffL4,
+2024-12-09 09:50:32.680,PlayVideo,video_zTcsSwKffL4,
+2024-12-09 09:58:58.000,Grab,,L
+2024-12-09 09:58:58.237,Release,,L
